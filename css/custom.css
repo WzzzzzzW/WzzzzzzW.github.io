@@ -15,6 +15,7 @@
     font-family: "ZhuZiAYuanJWD";
   }
   h1#site-title {
+    color: blue;
     font-family: ZhuZiAYuanJWD;
     font-size: 3em !important;
   }
@@ -367,4 +368,7 @@
   /* 代码框主题 */
   #article-container figure.highlight {
     border-radius: 10px;
+  }
+  div.copyright {
+    color:pink;
   }
